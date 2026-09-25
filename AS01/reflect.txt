@@ -1,0 +1,7 @@
+During this assignment I learned how to organize code into modules using header and source files. I learned the importance of namespaces and compilation safeguards when creating reusable components. I also gained experience working with C-style strings and implementing functions similar to those found in the cstring library.
+
+Another important concept I learned was file processing. I learned how to read records from a file and store them in structures. I also practiced using arrays of pointers and sorting records without modifying the original data. This helped me understand pointer manipulation and data organization.
+
+One difficulty I encountered was dealing with compilation and linker errors. At first it was difficult to determine whether the issue was caused by missing function definitions, incorrect file setup, or problems with file input. After troubleshooting, I became more comfortable with debugging and testing programs.
+
+Overall, this assignment improved my understanding of modular programming, file handling, sorting algorithms, and C-style strings. Additional examples of multi-file projects would be helpful for future students.
