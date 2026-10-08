@@ -1,0 +1,7 @@
+Reflection
+
+In this assignment, I learned how to work with dynamic memory allocation in C++. I gained a better understanding of how to create and manage objects that contain dynamically allocated character arrays. I learned how to use constructors, destructors, validation functions, and helper methods to maintain a class in a safe state. I also practiced working with C-style strings using the functions provided in the cstr module instead of relying on the standard library.
+
+One of the biggest difficulties I encountered was understanding when to allocate and deallocate memory. I also spent time debugging compilation issues, organizing files in the correct folders, and making sure my program output matched the expected output exactly. Formatting the credit card information and validating the input values required careful attention to detail.
+
+Overall, this assignment helped me become more comfortable with classes, dynamic memory management, and modular programming. As a suggestion, it would be helpful to provide a few additional examples showing the expected implementation flow for dynamic memory allocation and object validation. The assignment was challenging but very useful for reinforcing important C++ concepts.
