@@ -1,0 +1,9 @@
+Reflection – AS02
+
+In this assignment, I learned how to work with dynamic memory allocation in C++. I implemented the dma module and created a structure that stores a dynamically allocated title and a dynamically allocated integer array. Through the functions CreateSamples(), add(), append(), and freemem(), I gained a better understanding of how memory is allocated, expanded, and deallocated using raw pointers.
+
+One of the most important concepts I learned was how to safely manage dynamically allocated memory and avoid memory leaks. I also learned why passing pointers by reference, such as int*& and Samples*&, is necessary when a function needs to modify the original pointer. The append function helped me understand how to grow an array dynamically by creating a new larger array, copying existing elements, appending new data, and deleting the old array.
+
+The main difficulty I encountered was understanding dynamic memory management and ensuring that all allocated memory was properly released. I spent extra time testing my program with Valgrind to confirm there were no memory leaks or errors.
+
+My feedback is that the assignment was very useful for understanding dynamic memory and pointer manipulation. The provided tester and Valgrind checks were helpful because they allowed me to verify the correctness and safety of my implementation. Overall, this assignment improved my confidence in working with dynamic memory and modular programming in C++.
